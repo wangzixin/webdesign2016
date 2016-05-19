@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width">
+
+		<link href="lib/bootstrap/bootstrap.min.css" rel="stylesheet">
+		<link href="css/grade.css" rel="stylesheet" >
+		
+		<script src="js/jquery.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/jsrender.js"></script>
+		<script src="js/grade.js"></script>
+	</head>
+	<body>
+		<div class="grade">
+			<div class="container">
+				<div class="row row-title">
+					<div class="col-md-2">学号</div>
+					<div class="col-md-1">姓名</div>
+					<div class="col-md-1">实验3</div>
+					<div class="col-md-1">实验4</div>
+					<div class="col-md-1">实验5</div>
+					<div class="col-md-1">实验6</div>
+					<div class="col-md-1">实验7</div>
+					<div class="col-md-1">平时</div>
+					<div class="col-md-1">工程</div>
+					<div class="col-md-1">总分</div>
+				</div>
+			</div>
+		</div>
+</body>
+</html>
+
+
+<script id="gradeTmpl" type="text/x-jsrender">
+	{{for grade}}
+	<div class="row row-grade">
+		<div class="col-md-2">{{:id}}</div>
+			<div class="col-md-1">{{:name}}</div>
+			<div class="col-md-1">{{:class}}</div>
+			<div class="col-md-1">{{:exp3}}</div>
+			<div class="col-md-1">{{:exp4}}</div>
+			<div class="col-md-1">{{:exp5}}</div>
+			<div class="col-md-1">{{:exp6}}</div>
+			<div class="col-md-1">{{:exp7}}</div>
+			<div class="col-md-1">{{:ps}}</div>
+			<div class="col-md-1">{{:total}}</div>
+		</div>
+	</div>
+	{{/for}}
+</script>
+
+
+
+
+
+
+
+

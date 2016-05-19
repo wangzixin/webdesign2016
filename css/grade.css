@@ -1,0 +1,22 @@
+.row-title {
+	background: #666;
+	font:14px/1.5 "Microsoft YaHei";
+	color: #fff;
+}
+
+.grade {
+	margin: 10px;
+}
+
+.grade .col-md-1,.grade .col-md-2 {
+	padding: 0;
+	text-align: center;
+}
+
+.row-grade,.row-title{
+	padding: 5px 0;
+}
+
+.row-grade:nth-child(2n) {
+	background: #eee;
+}
