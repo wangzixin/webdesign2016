@@ -1,7 +1,7 @@
 ##2016学年 WEB程序设计课程设计 [杭州师范大学国际服务工程学院]
 
 ### G1. 心理家 
-#####代码： ```https://github.com/Jiaojiaom/psychological.github.com```
+#####代码： https://github.com/Jiaojiaom/psychological.github.com
 #####主页： http://lxmweb.github.io
 ---
 组长：郑姣明 2014211051 软工142
@@ -13,7 +13,7 @@
 - 林雪明 2014211855 软工142  
 
 ### G2. HISE.FM  
-#####```http://cherrydedream.github.io```
+#####主页： http://cherrydedream.github.io
 ---
 组长：谢岚  
 > 小组成员：
@@ -24,7 +24,7 @@
 - 王浩东   
 
 ### G3. 慢性病用药资源共享平台   
-#####```http://shiwt.github.io/```
+#####主页： http://shiwt.github.io/
 ---
 组长：时伟涛   
 > 小组成员：
@@ -33,7 +33,7 @@
 - 2014211870-潘熙  
 
 ### G4. Miss Music享悦   
-#####```http://xuhui1057297344.github.io/```
+#####主页： http://xuhui1057297344.github.io/
 ---
 组长：楼航英  
 > 小组成员：
@@ -45,7 +45,7 @@
 - 王士坤
 
 ### G5. 仿照bilibili弹幕网 
-#####```http://wangzixin.github.io/```
+#####主页： http://wangzixin.github.io/
 ---
 组长：王子欣  
 > 小组成员：
@@ -55,7 +55,7 @@
 - 卓颖涛2014211572  
 
 ### G6. 基于移动端的外卖平台 
-#####```http://miszibu.github.io/```
+#####主页： http://miszibu.github.io/
 ---
 组长：李高锋    
 > 小组成员：
@@ -67,7 +67,7 @@
 - 李高锋  2014211151
 
 ### G7. 基于PC端信息分享展示平台 
-#####```http://stone-chn.github.io/Web-Project/```
+#####主页： http://stone-chn.github.io/Web-Project/
 ---
 组长： 范林玉   
 > 小组成员：
@@ -77,7 +77,7 @@
 - 范林玉
 
 ### G8. tour guider 
-#####```http://wanglinben.github.io/```
+#####主页： http://wanglinben.github.io/
 ---
 组长： 胡佳丽
 > 小组成员：
@@ -99,7 +99,7 @@
 - 谢佳豪 2014211883
 
 ### G10. 买买买票 
-#####```http://alexlfw.github.io/web/```
+#####主页： http://alexlfw.github.io/web/
 ---
 组长： 李风纬  
 > 小组成员：
@@ -111,7 +111,7 @@
 - 郑成力2014211723
 
 ### G11. 格子钱包  
-#####```http://lmt1312220.github.io/```
+#####主页： http://lmt1312220.github.io/
 ---
 组长： 李梦婷
 > 小组成员：
@@ -122,7 +122,7 @@
 - 陈肖都 2014211902
 
 ### G12. PhotoHit  
-#####```https://i2pstudio.github.io/PhotoHit/```
+#####主页： https://i2pstudio.github.io/PhotoHit/
 ---
 组长： 王卓炜
 > 小组成员：
@@ -132,7 +132,7 @@
 - 王卓炜
 
 ### G13. 模仿豆瓣  
-#####```https://github.com/linxiaolei/class142```
+#####主页： https://github.com/linxiaolei/class142
 ---
 组长： 林晓蕾
 > 小组成员：
@@ -144,8 +144,8 @@
 
 
 ### G14. 模仿小米首页  
-##### 代码： ```https://github.com/tautcony/HomePage_Mi```
-##### 主页： ```http://tautcony.github.io/HomePage_Mi```
+##### 代码： https://github.com/tautcony/HomePage_Mi
+##### 主页： http://tautcony.github.io/HomePage_Mi
 ---
 组长： 吴正
 > 小组成员：
@@ -156,7 +156,7 @@
 - 吴晖  软工141班
 
 ### G15. 在线书籍音像阅览欣赏系统  
-#####```http://aroundightlancer.github.io/```
+#####主页： http://aroundightlancer.github.io/
 ---
 组长： 叶磊
 > 小组成员：
@@ -167,7 +167,7 @@
 - 杭煜  
 
 ### G16. 饿了么pc端开发  
-#####```http://oliverzzq.github.io/```
+#####主页： http://oliverzzq.github.io/
 ---
 组长： 周至强  
 > 小组成员：
@@ -180,7 +180,7 @@
 
 
 ### G17. xxx  
-#####```https://github.com/Wmengxi/Web-Program```
+#####主页： https://github.com/Wmengxi/Web-Program
 ---
 组长： 王惠瑛  
 > 小组成员：
@@ -192,7 +192,7 @@
 - 邬梦锡  2014211003
 
 ### G18. xxx  
-#####```http://xuhuihui.github.io/```
+#####主页： http://xuhuihui.github.io/
 ---
 组长： 徐慧慧  
 > 小组成员：
@@ -204,7 +204,7 @@
 - 蒿梦书
 
 ### G19. 电商网站设计  
-#####```http://huqiyang.github.io/```
+#####主页： http://huqiyang.github.io/
 ---
 组长： 胡麒阳 
 > 小组成员：
@@ -214,8 +214,8 @@
 - 郑奇峰
 
 ### G20. 视频网站设计 
-#####代码： ```https://github.com/weicong2014210926/weicong2014210926.github.com```
-#####主页： ```http://weicong2014210926.github.io/```
+#####代码： https://github.com/weicong2014210926/weicong2014210926.github.com
+#####主页： http://weicong2014210926.github.io/
 ---
 组长：  王小建
 > 小组成员：
@@ -226,7 +226,7 @@
 - 王小建 2014210953
 
 ### G21. 网店设计  
-#####```http://pumpkin123.github.io/```
+#####主页： http://pumpkin123.github.io/
 ---
 组长：  李言知 
 > 小组成员：
