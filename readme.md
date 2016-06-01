@@ -143,7 +143,8 @@
 
 
 ### G14. 模仿小米首页  
-#####```https://github.com/tautcony/HomePage_Mi```
+##### 代码： ```https://github.com/tautcony/HomePage_Mi```
+##### 代码： ```http://tautcony.github.io/HomePage_Mi```
 ---
 组长： 吴正
 > 小组成员：
