@@ -1,7 +1,8 @@
 ##2016学年 WEB程序设计课程设计 [杭州师范大学国际服务工程学院]
 
 ### G1. 心理家 
-#####```https://github.com/Jiaojiaom/psychological.github.com```
+#####代码： ```https://github.com/Jiaojiaom/psychological.github.com```
+#####主页： http://lxmweb.github.io
 ---
 组长：郑姣明 2014211051 软工142
 > 小组成员：
@@ -144,7 +145,7 @@
 
 ### G14. 模仿小米首页  
 ##### 代码： ```https://github.com/tautcony/HomePage_Mi```
-##### 代码： ```http://tautcony.github.io/HomePage_Mi```
+##### 主页： ```http://tautcony.github.io/HomePage_Mi```
 ---
 组长： 吴正
 > 小组成员：
@@ -212,8 +213,9 @@
 - 胡麒阳
 - 郑奇峰
 
-### G20. 视频网站设计  
-#####```http://weicong2014210926.github.io/```
+### G20. 视频网站设计 
+#####代码： ```https://github.com/weicong2014210926/weicong2014210926.github.com```
+#####主页： ```http://weicong2014210926.github.io/```
 ---
 组长：  王小建
 > 小组成员：
