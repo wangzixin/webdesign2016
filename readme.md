@@ -50,6 +50,7 @@
 
 ### G5. 仿照bilibili弹幕网 
 #####主页： http://wangzixin.github.io/
+#####代码： https://github.com/wangzixin/wangzixin.github.com
 ---
 组长：王子欣  
 > 小组成员：
