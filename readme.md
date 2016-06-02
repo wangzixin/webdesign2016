@@ -13,19 +13,22 @@
 - 林雪明 2014211855 软工142  
 
 ### G2. HISE.FM  
-#####主页地址:http://shiwt.top
-#####代码地址:https://github.com/shiwt/sss
+#####代码：cherrydedream.github.com
+#####主页地址：cherrydedream.github.io 
 ---
 组长：谢岚  
 > 小组成员：
 
-- 曹凯强    32323
-- 朱运生   
-- 陈彦凯   
-- 王浩东   
+- 曹凯强 2014211081
+- 朱运生 2014212155
+- 陈彦凯 2014210878
+- 王浩东 2014212136
+- 谢岚 2013212866
+
 
 ### G3. 慢性病用药资源共享平台   
-#####主页： http://shiwt.github.io/
+#####主页地址:http://shiwt.top
+#####代码地址:https://github.com/shiwt/sss
 ---
 组长：时伟涛   
 > 小组成员：
