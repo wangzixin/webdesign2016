@@ -1,7 +1,7 @@
 ##2016学年 WEB程序设计课程设计 [杭州师范大学国际服务工程学院]
 
 ### G1. 心理家 
-#####代码： https://github.com/Jiaojiaom/psychological.github.com
+#####代码： https://github.com/LxmWeb/lxmweb.github.com
 #####主页： http://lxmweb.github.io
 ---
 组长：郑姣明 2014211051 软工142
@@ -13,7 +13,8 @@
 - 林雪明 2014211855 软工142  
 
 ### G2. HISE.FM  
-#####主页： http://cherrydedream.github.io
+#####主页地址:http://shiwt.top
+#####代码地址:https://github.com/shiwt/sss
 ---
 组长：谢岚  
 > 小组成员：
@@ -89,7 +90,7 @@
 - 胡思哲 2014211818 计143
 
 ### G9. 仿bilibili的PC端 
-#####```xxx```
+#####主页： http://soybeanmilk.github.io/
 ---
 组长： 张乐  
 > 小组成员：
